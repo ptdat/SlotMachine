@@ -1,0 +1,22 @@
+Make SLOT 777 game base on this input data :
+
+
+
+
+{“input”:
+  [{
+    "line":1,
+    "win":100
+  },{
+    "line":2,
+    "win":100
+  },{
+    "line":5,
+    "win":300
+  }]
+}
+
+ 
+- Logic win for 5 lines. (Please check the images line123.png and line45.png) 
+- Animation. 
+- Timming. 
